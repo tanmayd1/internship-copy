@@ -1,0 +1,50 @@
+{
+    "@context": {
+        "@vocab": "https://schema.org/",
+        "dcat": "http://www.w3.org/ns/dcat#",
+        "Dataset": "https://schema.org/Dataset",
+        "FileObject": "https://schema.org/FileObject"
+    },
+    "@type": "Catalog",
+    "title": "Dataset Catalog",
+    "description": "A catalog of datasets.",
+    "dataset": [
+        {
+            "@type": "Dataset",
+            "name": "Example_Dataset",
+            "title": "Example Dataset",
+            "description": "This is an example dataset.",
+            "identifier": "http://example.org/dataset/1",
+            "keyword": [
+                "example",
+                "dataset"
+            ],
+            "publisher": {
+                "@type": "Organization",
+                "name": "Example Organization"
+            },
+            "distribution": [
+                {
+                    "@type": "FileObject",
+                    "name": "Example_Dataset_CSV",
+                    "description": "CSV file of the example dataset.",
+                    "encodingFormat": "text/csv",
+                    "contentUrl": "http://example.org/dataset/1.csv",
+                    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "@type": "FileObject",
+                    "name": "Example_Dataset_Parquet",
+                    "description": "Parquet file of the example dataset.",
+                    "encodingFormat": "application/x-parquet",
+                    "contentUrl": "http://example.org/dataset/1.parquet",
+                    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                }
+            ],
+            "citation": "Example Organization (2024). Example Dataset. Retrieved from http://example.org/dataset/1",
+            "datePublished": "2024-07-05",
+            "license": "http://example.org/license",
+            "version": "1.0.0"
+        }
+    ]
+}

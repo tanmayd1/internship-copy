@@ -1,0 +1,22 @@
+{
+    "@context": {
+        "@vocab": "https://schema.org/",
+        "dcat": "http://www.w3.org/ns/dcat#",
+        "Dataset": "https://schema.org/Dataset",
+        "FileObject": "https://schema.org/FileObject"
+    },
+    "@type": "Catalog",
+    "title": "Dataset Catalog",
+    "description": "A catalog of datasets.",
+    "dataset": [
+        {
+            "@type": "Dataset",
+            "name": "",
+            "title": "",
+            "description": "",
+            "identifier": "131bc110fb1dd0a5ccb78fe522cb640489705bfc6a4bd2acad12effcaebb627c",
+            "author": "",
+            "distribution": []
+        }
+    ]
+}

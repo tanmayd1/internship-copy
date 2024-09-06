@@ -1,0 +1,101 @@
+{
+    "@context": {
+        "@vocab": "https://schema.org/",
+        "croissant": "https://mlcommons.org/croissant#",
+        "Dataset": "https://schema.org/Dataset",
+        "FileObject": "https://schema.org/FileObject"
+    },
+    "@type": "Dataset",
+    "name": "Example_Dataset",
+    "title": "Example Dataset",
+    "description": "This is an example dataset.",
+    "identifier": "http://example.org/dataset/1",
+    "keyword": [
+        "example",
+        "dataset"
+    ],
+    "publisher": {
+        "@type": "Organization",
+        "name": "Example Organization"
+    },
+    "distribution": [
+        {
+            "@type": "FileObject",
+            "name": "Example_Dataset_CSV",
+            "identifier": "43245735e5829c4ec9063baf6f597c18eb90067618c82f0ccd105f1e7fff0eda",
+            "title": "Example Dataset CSV",
+            "description": "CSV file of the example dataset.",
+            "encodingFormat": "text/csv",
+            "contentUrl": "http://example.org/dataset/1.csv",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "@type": "FileObject",
+            "name": "Example_Dataset_Parquet",
+            "identifier": "105eeee86d8f9987a64fbb39f3411fafeb739cd7aaed4b24a0c9aace3ded124e",
+            "title": "Example Dataset Parquet",
+            "description": "Parquet file of the example dataset.",
+            "encodingFormat": "application/x-parquet",
+            "contentUrl": "http://example.org/dataset/1.parquet",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+    ],
+    "citation": "Example Citation",
+    "datePublished": "2022-01-01",
+    "license": "http://example.org/license",
+    "version": "1.0.0",
+    "isLiveDataset": true,
+    "subField": [],
+    "parentField": [],
+    "format": "json-ld",
+    "transform": [],
+    "path": "",
+    "cr": [],
+    "key": [],
+    "source": [],
+    "field": [],
+    "fileProperty": [],
+    "extract": [],
+    "repeated": false,
+    "@language": "en",
+    "data": [],
+    "rai": [],
+    "column": [],
+    "citeAs": "Example Citation",
+    "examples": [],
+    "includes": [],
+    "regex": "",
+    "fileSet": [],
+    "recordSet": [],
+    "references": [],
+    "dct": [],
+    "jsonPath": "",
+    "dataType": "Dataset",
+    "fileObject": [
+        {
+            "@type": "FileObject",
+            "name": "Example_Dataset_CSV",
+            "identifier": "43245735e5829c4ec9063baf6f597c18eb90067618c82f0ccd105f1e7fff0eda",
+            "title": "Example Dataset CSV",
+            "description": "CSV file of the example dataset.",
+            "encodingFormat": "text/csv",
+            "contentUrl": "http://example.org/dataset/1.csv",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "@type": "FileObject",
+            "name": "Example_Dataset_Parquet",
+            "identifier": "105eeee86d8f9987a64fbb39f3411fafeb739cd7aaed4b24a0c9aace3ded124e",
+            "title": "Example Dataset Parquet",
+            "description": "Parquet file of the example dataset.",
+            "encodingFormat": "application/x-parquet",
+            "contentUrl": "http://example.org/dataset/1.parquet",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+    ],
+    "conformsTo": "https://schema.org",
+    "separator": ",",
+    "sc": [],
+    "md5": "",
+    "replace": ""
+}

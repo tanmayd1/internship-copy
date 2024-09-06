@@ -1,0 +1,815 @@
+0 - Matched: U.Nottm_2016_RIPRleaf_images
+
+
+1 - Matched: Wheat_drought stress phenomics
+
+
+2 - Matched: Maize and Teosinte BAM files
+
+
+3 - Matched: Segmented Procedural Sorghum Plants
+
+
+4 - Matched: Supplementary material for "The genome sequence of segmental allotetraploid peanut Arachis hypogaea"
+
+
+5 - Matched: Plant part segmentation
+
+
+6 - Matched: Cassav
+
+
+7 - Matched: DIRT/3D models
+
+
+8 - Matched: Bucksch_Liu_ThePlantPhenomeJournal_2023
+
+
+9 - Matched: Data from the Development Evolution of a Vehicle for Custom Control
+
+
+10 - Matched: Bunting Vehicle Test 01 - Radar Validation
+
+
+11 - Matched: Bunting Vehicle Test 02 - Radar Validation
+
+
+12 - Matched: Bunting Vehicle Test 03 - Cruise Controller State Testing
+
+
+13 - Matched: Bunting Vehicle Test 04 - Energy Consumption
+
+
+14 - Matched: Bunting Vehicle Test 05 - System Identification
+
+
+15 - Matched: Bunting Vehicle Test 06 - PID Speed Controller
+
+
+16 - Matched: Genomes To Fields 2015
+
+
+17 - Matched: Genomes To Fields 2014 v.3
+
+
+18 - Matched: Carolyn_Lawrence_Dill_GOMAP_Banana_NCBI_ASM31385v2_December_2022_v2.r1
+
+
+19 - Matched: Carolyn_Lawrence_Dill_GOMAP_Banana_NCBI_ASM31385v2_February_2021.r1
+
+
+20 - Matched: GOMAP Barley Reference Sequences IBSC_PGSB_r1
+
+
+21 - Matched: Carolyn_Lawrence_Dill_GOMAP_Barley_IPK_cv_Morex_V3_June_2023_v1.r1
+
+
+22 - Matched: GOMAP Barrel Clover A17_HM341 Mt4.0v2
+
+
+23 - Matched: Carolyn_Lawrence_Dill_GOMAP_Barrel_Clover_LIS_A17.gnm5.ann1_6.L2RX_November_2022_v1.r1
+
+
+24 - Matched: Carolyn_Lawrence_Dill_GOMAP_Barrel_Clover_LIS_R108.gnmHiC_1.ann1.Y8NH_November_2022_v1.r1
+
+
+25 - Matched: GOMAP Barrel Clover R108_HM340 v1.0
+
+
+26 - Matched: GOMAP Bdistachyon.Bd21.v3.1.r1
+
+
+27 - Matched: Carolyn_Lawrence_Dill_GOMAP_Blueberry_GigaDB_Draper_v1.0_May_2023_v2.r1
+
+
+28 - Matched: Carolyn_Lawrence_Dill_GOMAP_Blueberry_GigaDB_v1.0_June_2021.r1
+
+
+29 - Matched: Carolyn_Lawrence_Dill_GOMAP_Cacao_NCBI_CriolloV2_December_2022_v2.r1
+
+
+30 - Matched: Carolyn_Lawrence_Dill_GOMAP_Cacao_NCBI_CriolloV2_March_2021.r1
+
+
+31 - Matched: Carolyn_Lawrence_Dill_GOMAP_Cannabis_NCBI_cs10_2.0_October_2022_v1.r1
+
+
+32 - Matched: GOMAP_Cannabis_sativa_NCBI-cs10_January_2020
+
+
+33 - Matched: Carolyn_Lawrence_Dill_GOMAP_Canola_BnPIR_ZS11_March_2021.r1
+
+
+34 - Matched: Carolyn_Lawrence_Dill_GOMAP_Coffee_CGH_v1.0_June_2021.r1
+
+
+35 - Matched: Carolyn_Lawrence_Dill_GOMAP_Coffee_CGH_v1.0_May_2023_v2.r1
+
+
+36 - Matched: GOMAP Common Bean DOE-JGI and USDA-NIFA v2.0
+
+
+37 - Matched: Carolyn_Lawrence_Dill_GOMAP_CommonBean_LIS_G19833_November_2022_v2.r1
+
+
+38 - Matched: Carolyn_Lawrence_Dill_GOMAP_Cotton_DOE-JGI_v2.1_June_2023_v2.r1
+
+
+39 - Matched: Carolyn_Lawrence_Dill_GOMAP_Cowpea_JGI_IT97K-499-35_December_2022_v1.r1
+
+
+40 - Matched: GOMAP Cowpea IT97K-499-35 JGI annotation v1.1
+
+
+41 - Matched: GOMAP Gossypium raimondii JGI v2.1
+
+
+42 - Matched: Carolyn_Lawrence_Dill_GOMAP_Grape_Genoscope_12x_January_2021.r1
+
+
+43 - Matched: Carolyn_Lawrence_Dill_GOMAP_Grape_Genoscope_12x_May_2023_v2.r1
+
+
+44 - Matched: Carolyn_Lawrence_Dill_GOMAP_Hop_HopBase_Cascade_January_2022.r1
+
+
+45 - Matched: Carolyn_Lawrence_Dill_GOMAP_Hop_HopBase_Cascade_July_2023_v2.r1
+
+
+46 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_CyVerse_Mo17_CAU_2.0_July_2023.r1
+	No Changes Made. Skipping...
+
+
+47 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_B73_NAM_5.0_December_2021.r1
+
+
+48 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_B73_NAM_5.0_October_2022_v2.r1
+
+
+49 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_B97_NAM_1.0_October_2022.r1
+
+
+50 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_CML103_NAM_1.0_October_2022.r1
+
+
+51 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_CML228_NAM_1.0_October_2022.r1
+
+
+52 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_CML247_NAM_1.0_October_2022.r1
+
+
+53 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_CML277_NAM_1.0_October_2022.r1
+
+
+54 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_CML322_NAM_1.0_November_2022.r1
+
+
+55 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_CML333_NAM_1.0_November_2022.r1
+
+
+56 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_CML52_NAM_1.0_November_2022.r1
+
+
+57 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_CML69_NAM_1.0_November_2022.r1
+
+
+58 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_HP301_NAM_1.0_November_2022.r1
+
+
+59 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_Il14H_NAM_1.0_November_2022.r1
+
+
+60 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_Ki11_NAM_1.0_November_2022.r1
+
+
+61 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_Ki3_NAM_1.0_November_2022.r1
+
+
+62 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_Ky21_NAM_1.0_November_2022.r1
+
+
+63 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_M162W_NAM_1.0_November_2022.r1
+
+
+64 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_M37W_NAM_1.0_November_2022.r1
+
+
+65 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_Mo17_CAU_1.0_May_2023_v2.r1
+
+
+66 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_Mo18W_NAM_1.0_November_2022.r1
+
+
+67 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_Ms71_NAM_1.0_November_2022.r1
+
+
+68 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_NC350_NAM_1.0_November_2022.r1
+
+
+69 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_NC358_NAM_1.0_November_2022.r1
+
+
+70 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_Oh43_NAM_1.0_November_2022.r1
+	No Changes Made. Skipping...
+
+
+71 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_Oh7B_NAM_1.0_November_2022.r1
+
+
+72 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_P39_NAM_1.0_November_2022.r1
+
+
+73 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_PH207_NS-UIUC_UMN_1.0_May_2023_v2.r1
+
+
+74 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_Tx303_NAM_1.0_November_2022.r1
+
+
+75 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_Tzi8_NAM_1.0_November_2022.r1
+
+
+76 - Matched: Carolyn_Lawrence_Dill_GOMAP_Maize_MaizeGDB_W22_NRGENE_2.0_May_2023_v2.r1
+
+
+77 - Matched: GOMAP Maize Zm-Mo17-REFERENCE-CAU-1.0 Zm00014a.1
+
+
+78 - Matched: GOMAP Maize Zm-PH207-REFERENCE_NS-UIUC_UMN-1.0 Zm00008a.1
+
+
+79 - Matched: GOMAP Maize Zm-W22-REFERENCE-NRGENE-2.0 Zm00004b.1
+
+
+80 - Matched: GOMAP Peanut IPGI 1.0
+
+
+81 - Matched: Carolyn_Lawrence_Dill_GOMAP_Peanut_Tifrunner.IPGI.2.0_November_2022_v1.r1
+
+
+82 - Matched: Carolyn_Lawrence_Dill_GOMAP_Pepper_PGP_CM334_November_2021.r1
+
+
+83 - Matched: Carolyn_Lawrence_Dill_GOMAP_Pepper_PGP_cvCM334_June_2023_v2.r1
+
+
+84 - Matched: Carolyn_Lawrence_Dill_GOMAP_Rapeseed_BnPIR_ZS11_June_2023_v2.r1
+
+
+85 - Matched: GOMAP Rice Reference Sequences 2.0
+
+
+86 - Matched: GOMAP Rice Reference Sequences 1.0
+
+
+87 - Matched: Carolyn_Lawrence_Dill_GOMAP_Rice_IRGSP_1.0_June_2023_v2.r1
+
+
+88 - Matched: GOMAP Sbicolor.BTx623.v3.0.1.r1
+
+
+89 - Matched: Carolyn_Lawrence_Dill_GOMAP_Solanum_lycopersicum_ITAG4.1.v1_April_2021.r1
+
+
+90 - Matched: Carolyn_Lawrence_Dill_GOMAP_Solanum_pennellii_Bolger2014.v1_April_2021.r1
+
+
+91 - Matched: Carolyn_Lawrence_Dill_GOMAP_Sorghum_DOE-JGI_v3.1.1_March_2023_v1.r1
+
+
+92 - Matched: GOMAP Soybean JGI-Wm82.a4.v1
+
+
+93 - Matched: Carolyn_Lawrence_Dill_GOMAP_Soybean_LIS_Wm82_IGA1008.gnm1.ann1.FGN6_May_2023_v1.r1
+
+
+94 - Matched: Carolyn_Lawrence_Dill_GOMAP_Stiff_brome_DOE-JGI_Bd21_v3.2_May_2023_v1.r1
+
+
+95 - Matched: GOMAP TreeGenesDB sugar pine assembly v1.5
+
+
+96 - Matched: Carolyn_Lawrence_Dill_GOMAP_Sugar_Pine_TreeGenes_v1.5_June_2023_v2.r1
+
+
+97 - Matched: Carolyn_Lawrence_Dill_GOMAP_Tea_Teabase_CSS_ChrLev_20200506_June_2023_v1.r1
+
+
+98 - Matched: Carolyn_Lawrence_Dill_GOMAP_Tea_TPIA_CSS_ChrLev_20200506_September_2021.r1
+
+
+99 - Matched: Carolyn_Lawrence_Dill_GOMAP_Tomato_SGN_SL4.0_July_2023_v2.r1
+
+
+100 - Matched: GOMAP Wheat Reference Sequences 1.1
+
+
+101 - Matched: Carolyn_Lawrence_Dill_GOMAP_Wheat_URGI_IWGSC_RefSeq_v2.1_May_2023_v1.r1
+
+
+102 - Matched: Carolyn_Lawrence_Dill_GOMAP_Wild_Tomato_SGN_LA716_June_2023_v2.r1
+
+
+103 - Matched: maize-GAMER
+
+
+104 - Matched: maize-GAMER Annotations for maize B73 RefGen_V4 Zm00001d.2
+
+
+105 - Matched: Carolyn_Lawrence_Dill_Maize_WiDiv_Association_Studies_Dataset_September_2023
+
+
+106 - Matched: Carolyn_Lawrence_Dill_Maize_WiDiv_Summer_2021_Dataset_June_2023
+
+
+107 - Matched: High-throughput imaging and phenotyping dataset of C4 grain crops
+
+
+108 - Matched: Real and simulated maize images for leaf counting study
+
+
+109 - Matched: Building a tRNA thermometer to estimate microbial adaptation to temperature
+
+
+110 - Matched: Data to support Condon and Maxwell (2019), ParFlow CONUS1.0 Groundwater Depletions
+
+
+111 - Matched: Genetic Architecture of Maize Kernel Composition in the Nested Association Mapping and Inbred Association Panels - Data
+
+
+112 - Matched: Perennial Ryegrass Kyuss genome annotation
+
+
+113 - Matched: Gene annotation of the Fhb1 locus on the assembly of bread wheat variety Norin 61
+
+
+114 - Matched: Copetti_Rabiosa_annotation_Feb2021
+
+
+115 - Matched: UT_rw
+
+
+116 - Matched: Maize G2F UAV Data, College Station, TX 2019
+
+
+117 - Matched: B73 RefGen_v4cen - Manual Reassembly of the 106Mb of centromeric and pericentromeric sequence RefGen_v4 genome assembly.
+
+
+118 - Matched: MArVD2 data
+
+
+119 - Matched: DeGraaf_data_lateralFlow_comparison_Jan2022
+
+
+120 - Matched: Hyper-resolution continental aquifer parameterization
+
+
+121 - Matched: Genomes To Fields 2014 v.1 - deprecated
+
+
+122 - Matched: Genomes To Fields 2014 v.2 - deprecated
+
+
+123 - Matched: Prediction of evolutionary constraint by genomic annotations improves prioritization of causal variants in maize
+
+
+124 - Matched: Novel Bayesian networks for genomic prediction of dynamic traits in biomass sorghum
+
+
+125 - Matched: Genomic variation for 104 rice elite cultivars, landraces and wild relatives
+
+
+126 - Matched: Malaria Host Pathogen Interaction Center (MaHPIC) Experiment 01 (E01) Clinical Results
+
+
+127 - Matched: Malaria Host Pathogen Interaction Center (MaHPIC) Experiment 02 (E02) Clinical Results
+
+
+128 - Matched: Malaria Host Pathogen Interaction Center (MaHPIC) Experiment 03 (E03) Clinical Results
+
+
+129 - Matched: Malaria Host Pathogen Interaction Center (MaHPIC) Experiment 04 (E04) Clinical Results
+
+
+130 - Matched: Malaria Host Pathogen Interaction Center (MaHPIC) Experiment 13 (E13) Clinical Results
+
+
+131 - Matched: Malaria Host Pathogen Interaction Center (MaHPIC) Experiment 15 (E15) Clinical Results
+
+
+132 - Matched: Malaria Host Pathogen Interaction Center (MaHPIC) Experiment 20 (E20) Clinical Results
+
+
+133 - Matched: Malaria Host Pathogen Interaction Center (MaHPIC) Experiment 21 (E21) Clinical Results
+
+
+134 - Matched: Malaria Host Pathogen Interaction Center (MaHPIC) Experiment 23 (E23) Clinical Results
+
+
+135 - Matched: Malaria Host Pathogen Interaction Center (MaHPIC) Experiment 24 (E24) Clinical Results
+
+
+136 - Matched: Malaria Host Pathogen Interaction Center (MaHPIC) Experiment 25 (E25) Clinical Results
+
+
+137 - Matched: Malaria Host Pathogen Interaction Center (MaHPIC) Experiment 30 (E30) Clinical Results
+
+
+138 - Matched: Genomes To Fields Inbred Ear Imaging 2017
+
+
+139 - Matched: Tassel5
+
+
+140 - Matched: Improved desi reference genome
+
+
+141 - Matched: Improved kabuli reference genome
+
+
+142 - Matched: Public Data Release of the Event Horizon Telescope 2017 Observations
+
+
+143 - Matched: Event Horizon Telescope observations of the jet launching and collimation in Centaurus A: Calibrated Data
+
+
+144 - Matched: First 3C279 EHT Results: Calibrated Data
+
+
+145 - Matched: First M87 EHT Results: Calibrated Data
+
+
+146 - Matched: EHT Sagittarius A* Polarized Data
+
+
+147 - Matched: First Sagittarius A* EHT Results: Calibrated Data
+
+
+148 - Matched: 2018 M87 EHT Results: Calibrated Data
+
+
+149 - Matched: Multi-wavelength Observations of M87 During the 2017 Event Horizon Telescope Campaign
+
+
+150 - Matched: EHT M87 Polarized Data
+
+
+151 - Matched: EHT 2018 Metadata
+	No Changes Made. Skipping...
+
+
+152 - Matched: EHT Visibility Amplitude Data of M87* in 2011-2013
+
+
+153 - Matched: Multi-wavelength Observations of Sgr A* During the 2017 Event Horizon Telescope Campaign
+
+
+154 - Matched: Maize seedling images for cold stress analysis
+
+
+155 - Matched: A drone-based high-throughput phenotyping approach to assess time-series nitrogen responses and associated genetic components in maize
+
+
+156 - Matched: EvansDeyHeilman_PinusEdulis_ringwidth_2024
+
+
+157 - Matched: Arizona Tree Ring and FIA metadata
+
+
+158 - Matched: Genomes_to_Field_Planting_Season_2015_V2
+
+
+159 - Matched: LiDar Point Clouds of Hybrid Maize Field Plots
+
+
+160 - Matched: tassel_selection
+
+
+161 - Matched: Gage_uORF_allelic_variation_2021
+
+
+162 - Matched: Tripsacum Transcriptomes
+
+
+163 - Matched: Eastern Tropical South Pacific viruses
+
+
+164 - Matched: GenomesToFields 2014-2017 Datasets
+
+
+165 - Matched: Genomes to Fields 2019 dataset
+
+
+166 - Matched: Genomes to Fields 2016
+
+
+167 - Matched: Genomes to Fields 2018 Data Set
+
+
+168 - Matched: Genomes to Fields 2020 dataset
+
+
+169 - Matched: Genomes to Fields 2021 dataset
+
+
+170 - Matched: Genomes to Fields 2022 dataset
+
+
+171 - Matched: Genomes to Fields genotypic data from 2014 to 2023
+
+
+172 - Matched: Genomes to Fields and Indigo Ag Microbiome Data 2017-2018
+
+
+173 - Matched: Genomes to Fields 2022 Maize Genotype by Environment Prediction Competition
+
+
+174 - Matched: Bangladesh CNN - LSTM Model Data
+
+
+175 - Matched: Bangladesh Inundation History
+
+
+176 - Matched: Innovations to expand drone data collections and analysis for rangeland monitoring
+
+
+177 - Matched: Estimating forage utilization with drone-based photogrammetric point clouds
+
+
+178 - Matched: Multi-omics prediction of oat agronomic and seed nutritional traits across environments and in distantly related populations - Omics Data
+
+
+179 - Matched: Heritable temporal gene expression patterns correlate with metabolomic seed content in developing hexaploid oat seed - Supporting information
+
+
+180 - Matched: Whole-genome sequence of phages p000v and p000y infecting the bacterial pathogen Shigatoxigenic Escherichia coli
+
+
+181 - Matched: Staggered Mock Metagenomic Communities
+
+
+182 - Matched: International Oryza Map Alignment Project
+
+
+183 - Matched: Comparative analysis of reference transcriptome atlas and insight into essential fatty acids and terpenoid biosynthesis pathways from Chia (Salvia hispanica)
+
+
+184 - Matched: Protein stability profiles reflect plant species' evolutionary history
+
+
+185 - Matched: Predicting protein temperature sensitivity across the prokaryote-eukaryote divide
+
+
+186 - Matched: Phenotype and genotype data from Chibas sorghum breeding program
+
+
+187 - Matched: Plant CT
+
+
+188 - Matched: Genotype and phenotype for 962 biomass sorghum accessions
+
+
+189 - Matched: Yang et al., 2017 Data for PVP deleterious alleles
+
+
+190 - Matched: JZhang_LCondon_CONUS_Topography_Sep2020
+
+
+191 - Matched: EquCab3 intermediate assemblies
+
+
+192 - Matched: Stomatal Microtubule Detection Dataset
+
+
+193 - Matched: Dysregulation of expression correlates with rare-allele burden and fitness loss in maize, maizeDiversityPanelRNAseq_2018
+
+
+194 - Matched: deprecated_Dysregulation of expression correlates with rare-allele burden and fitness loss in maize - data
+
+
+195 - Matched: San Joaquin Basin Model - Grace Match
+
+
+196 - Matched: Science Citation Knowledge Extractor
+
+
+197 - Matched: Maize Diversity Phenotype Map
+
+
+198 - Matched: Maize Syn10 Binmap markers with traits
+
+
+199 - Matched: The interplay of demography and selection during maize domestication and expansion
+
+
+200 - Matched: ReADI Smartphone Health and Activity
+
+
+201 - Matched: MaizeCode_annotation_evidence_data_2017
+
+
+202 - Matched: MartinezMeyer_et_al_DivDist_2021
+
+
+203 - Matched: McConnell_Coverage_2022
+
+
+204 - Matched: Fluctuations of the transcription factor ATML1 generate the pattern of giant cells in the Arabidopsis sepal
+
+
+205 - Skipping: Empty Dataset
+206 - Matched: Rapid Automatic & Adaptive Model for Performance Prediction (RAAMP2) Dataset
+
+
+207 - Matched: CS18_G2F
+
+
+208 - Matched: Brassicaceae_lincRNAs
+
+
+209 - Matched: Data packages for One Thousand Plant transcriptomes and phylogenomics of green plants
+
+
+210 - Matched: Impact of Green Infrastructure on Canopy Height
+
+
+211 - Matched: Construction of the third-generation Zea mays haplotype map
+
+
+212 - Matched: The genetic architecture of the maize progenitor, teosinte, and how it was altered during maize domestication
+	No Changes Made. Skipping...
+
+
+213 - Matched: scAGN dataset
+
+
+214 - Matched: The relevance of dominance and functional annotations to predict agronomic traits in hybrid maize
+
+
+215 - Matched: Ramstein_SNPConstraintPrediction_2022
+
+
+216 - Matched: Reicher_PooledProteinTagging_2020
+
+
+217 - Matched: Rodriguez_MaizePhenolics_2022
+
+
+218 - Matched: Rohit_GlobalSurfaceWaterDataset_2024
+
+
+219 - Matched: Rohit_UrbanFloodObservation_2024
+
+
+220 - Matched: Saengwilai_Cassava_2019
+
+
+221 - Matched: RUBRIC Oxford MinION nanopore selective sequencing logfiles
+
+
+222 - Matched: Low-phosphate study experiment data with Auxenochlorella protothecoides wild and adapted strain
+
+
+223 - Matched: Inbreeding Drives Maize Centromere Evolution
+
+
+224 - Matched: Oryza officinalis complex gene and repeat annotations
+
+
+225 - Matched: A Library of Synthetic TDE X-ray Spectra
+
+
+226 - Matched: Spinti_river_fragmentation_data_2022
+
+
+227 - Matched: B73 Whole Genome Bisulfate Sequencing (WGBS)
+
+
+228 - Matched: CML322 Whole Genome Bisulfate Sequencing (WGBS)
+
+
+229 - Matched: Mo17 Whole Genome Bisulfate Sequencing (WGBS)
+
+
+230 - Matched: Oh43 Whole Genome Bisulfate Sequencing (WGBS)
+
+
+231 - Matched: Tx303 Whole Genome Bisulfate Sequencing (WGBS)
+
+
+232 - Matched: Supplemental Datasets Maize Leaf-Associated Microbes Vary Across Plant Ages
+
+
+233 - Matched: ResOpsUS
+
+
+234 - Matched: Identifying ovarian cancer populations associated with poor prognosis
+
+
+235 - Matched: Az Groundwater Spatiotemporal Analysis
+
+
+236 - Matched: G2F Maize UAV Data, College Station, Texas 2017
+
+
+237 - Matched: An extensive lab- and field-image dataset of crops and weeds for computer vision tasks in agriculture
+
+
+238 - Matched: U.Nottm_2016_root_images
+
+
+239 - Matched: Hyperspectral Imaging of Quantitative Maize Seedling Salt Stress Experiment
+
+
+240 - Matched: Topp Zea mays 2d DIRT images 2016
+
+
+241 - Matched: Topp Zea mays gels 3d volumes 2016
+
+
+242 - Matched: Topp Zea mays xray volumes 2016
+
+
+243 - Matched: Middle Heihe Cryosphere Response ParFlow Study
+
+
+244 - Matched: Chromosome-scale genome assembly and population genomic analysis provide insights into the origin and evolution of modern sweet corn
+
+
+245 - Matched: Valluru 2019 Genetics
+
+
+246 - Matched: Effects of transcriptional noise on estimates of gene and transcript expression in RNA sequencing experiments
+
+
+247 - Matched: VertNet_Amphibia_Nov2017
+
+
+248 - Matched: VertNet_Amphibia_Oct2015
+
+
+249 - Matched: VertNet_Amphibia_Sept2016
+
+
+250 - Matched: VertNet_Aves_Nov2017
+
+
+251 - Matched: VertNet_Aves_Oct2015
+
+
+252 - Matched: VertNet_Aves_Sept2016
+
+
+253 - Matched: VertNet_Fishes_Nov2017
+
+
+254 - Matched: VertNet_Fishes_Oct2015
+
+
+255 - Matched: VertNet_Fishes_Sept2016
+
+
+256 - Matched: VertNet_Mammalia_Nov2018
+
+
+257 - Matched: VertNet_Mammalia_Oct2015
+
+
+258 - Matched: VertNet_Mammalia_Sept2016
+
+
+259 - Matched: VertNet_Reptilia_Nov2017
+
+
+260 - Matched: VertNet_Reptilia_Oct2015
+
+
+261 - Matched: VertNet_Retilia_Sept2016
+
+
+262 - Matched: VertNet_Traits_Sept2106
+
+
+263 - Matched: Optimization of Temporal UAS-Based Imagery Analysis to Estimate Plant Maturity Date for Soybean Breeding
+
+
+264 - Matched: efam
+
+
+265 - Matched: Cryptic and abundant marine viruses at the evolutionary origins of Earth’s RNA virome
+
+
+266 - Matched: Xfam
+
+
+267 - Matched: FloodPlanet
+
+
+268 - Matched: Barrow Viromes 2019
+
+
+269 - Matched: Barrow Viromes
+
+
+270 - Matched: Maize Leaf Metabolome GWAS
+
+
